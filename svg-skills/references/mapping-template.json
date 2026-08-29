@@ -1,0 +1,63 @@
+{
+  "protected_group_ids": [],
+  "contact_sheet": {
+    "columns": 4,
+    "preview_width": 410,
+    "preview_height": 148
+  },
+  "mappings": [
+    {
+      "sources": ["#1F2937"],
+      "palette": "darkest",
+      "operation": "ink"
+    },
+    {
+      "sources": ["#2563EB"],
+      "palette": 0,
+      "operation": "shade",
+      "amount": 0.1
+    },
+    {
+      "sources": ["#DBEAFE"],
+      "palette": 0,
+      "operation": "tint",
+      "amount": 0.84
+    },
+    {
+      "sources": ["#7C3AED"],
+      "palette": 1,
+      "operation": "shade",
+      "amount": 0.1
+    },
+    {
+      "sources": ["#EDE9FE"],
+      "palette": 1,
+      "operation": "tint",
+      "amount": 0.84
+    },
+    {
+      "sources": ["#D97706"],
+      "palette": 2,
+      "operation": "shade",
+      "amount": 0.1
+    },
+    {
+      "sources": ["#FEF3C7"],
+      "palette": 2,
+      "operation": "tint",
+      "amount": 0.82
+    },
+    {
+      "sources": ["#6B7280"],
+      "palette": 3,
+      "operation": "shade",
+      "amount": 0.3
+    },
+    {
+      "sources": ["#E5E7EB"],
+      "palette": 3,
+      "operation": "tint",
+      "amount": 0.76
+    }
+  ]
+}

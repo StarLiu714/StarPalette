@@ -1,0 +1,8 @@
+interface:
+  display_name: "Star-Palette-svg"
+  short_description: "Generate protected SVG palette variant batches"
+  brand_color: "#6A45CC"
+  default_prompt: "Use $star-palette-svg to inspect my SVG, create a semantic color mapping, and generate validated variants from a palette catalog."
+
+policy:
+  allow_implicit_invocation: true
